@@ -8,17 +8,17 @@ Implemented all main functional, but still Laggy.
 
  
 
-Target
+**Target**
 
 Help travelers get to distant planets. Fight pirates. Get in the Top!
 
  
 
-Control
+**Control**
 
-Movement - WSAD
+* Movement - WSAD
 
-Disconect Module - Ctrl 
+* Disconect Module - Ctrl 
 
-Shoot - Space
+* Shoot - Space
 
