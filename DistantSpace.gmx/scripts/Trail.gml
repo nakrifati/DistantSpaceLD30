@@ -1,0 +1,14 @@
+i=instance_create(x,y,obj_trail);
+i.sprite_index=sprite_index;
+i.image_index=image_index;
+i.image_alpha=argument0;
+i.subtract=argument1;
+i.image_yscale=argument2;
+i.image_xscale=argument3;
+i.xGrow=argument4;
+i.yGrow=argument5;
+i.grow=argument6;
+i.image_angle=argument7;
+i.turn=argument8;
+i.hspeed=argument9;
+i.vspeed=argument10;
